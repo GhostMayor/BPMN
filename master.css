@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background: #333333;
+}
+#front{
+  position: absolute;
+  top:0px;
+  left:0px;
+}
+#tools{
+  position: absolute;
+  width: 100px;
+  height: 300px;
+  border:2px solid black;
+  background:gray;
+}
